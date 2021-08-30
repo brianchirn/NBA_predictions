@@ -1,7 +1,9 @@
 # NBA_predictions
-![](Images/Project_Overview-01.png)
- 
+The goal of this project was to predict the outcome of NBA games historical NBA game data.
+Binary classifcaiton tecnhiques, Linear Regression and KNN, trained on data from over 23,000 NBA games, resulted in an accuracy of .645 and AUC of 0.685
 
+
+![](Images/Project_Overview-01.png)
 ![](Images/Project_Overview-02.png)
 ![](Images/Project_Overview-03.png)
 ![](Images/Project_Overview-04.png)
